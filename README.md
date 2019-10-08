@@ -8,4 +8,4 @@ Contains files (file name --- explanation):
 4. LC_justtag_tagandvideo_finalgraph.png	--- figure 1 from MS (Little Cayman data)
 5. CB_tag_tagvideo_plotforMS.png --- figure 2 from MS (Cayman Brac data)
 6. 11.19.2018_tagcounts_vidcounts_surveyorLC_basicCB_indvislands.R --- R code script
-
+7. video_example --- links for example 2018 video pan files
