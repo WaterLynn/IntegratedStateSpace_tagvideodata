@@ -11,3 +11,6 @@ Contains files (file name --- explanation):
 5. CB_tag_tagvideo_plotforMS.png --- figure 2 from MS (Cayman Brac data)
 6. 11.19.2018_tagcounts_vidcounts_surveyorLC_basicCB_indvislands.R --- R code script
 7. video_example --- links for example 2018 video pan files
+
+
+<a href="https://zenodo.org/badge/latestdoi/161533190"><img src="https://zenodo.org/badge/161533190.svg" alt="DOI"></a>
