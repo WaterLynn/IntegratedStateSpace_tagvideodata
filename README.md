@@ -14,4 +14,4 @@ Contains files (file name --- explanation):
 
 updated 1/22/2020 by L.Waterhouse
 
-<a href="https://zenodo.org/badge/latestdoi/161533190"><img src="https://zenodo.org/badge/161533190.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.3625205"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3625205.svg" alt="DOI"></a>
