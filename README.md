@@ -12,5 +12,6 @@ Contains files (file name --- explanation):
 6. 01.22.2020_tagcounts_vidcounts_surveyorLC_basicCB_indvislands.R --- R code script
 7. video_example --- links for example 2018 video pan files
 
+updated 1/22/2020 by L.Waterhouse
 
 <a href="https://zenodo.org/badge/latestdoi/161533190"><img src="https://zenodo.org/badge/161533190.svg" alt="DOI"></a>
