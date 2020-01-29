@@ -1,7 +1,7 @@
 # IntegratedStateSpace_tagvideodata
 R code for integrated state space model for population growth based on a mark-resight study and counts from video pans for the Nassau Grouper.
 
-All data and code used in PNAS paper "Recovery of critically endangered Nassau grouper (Epinephelus striatus) in the Cayman Islands following targeted conservation actions" by L. Waterhouse, S. A. Heppell, C. V. Pattengill-Semmens, C. McCoy, P. Bush, B. C. Johnson and B. X. Semmens. (in press)".
+All data and code used in PNAS paper "Recovery of critically endangered Nassau grouper (Epinephelus striatus) in the Cayman Islands following targeted conservation actions" by L. Waterhouse, S. A. Heppell, C. V. Pattengill-Semmens, C. McCoy, P. Bush, B. C. Johnson and B. X. Semmens. (2020)" https://doi.org/10.1073/pnas.1917132117
 
 Contains files (file name --- explanation):
 1. 2008.2018_BracTagCounts.csv --- data from Cayman Brac tag counts 2008, 2018
